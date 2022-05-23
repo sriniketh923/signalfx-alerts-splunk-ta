@@ -1,0 +1,34 @@
+[props/source%3A%3A...ta-sfx-python%2A.log%2A]
+owner = admin
+version = 8.2.5
+modtime = 1646946549.796938000
+
+[props/source%3A%3A...ta_sfx_python%2A.log%2A]
+owner = admin
+version = 8.2.5
+modtime = 1646946549.910771000
+
+[indexes/sfx_python_alerts]
+owner = admin
+version = 8.2.5
+modtime = 1646948640.091933000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-sfx-python%23data%2Finputs%2Fsfx_python%3Asfxpythonalertsdev%60%60splunk_cred_sep%60%601%3A]
+owner = admin
+version = 8.2.5
+modtime = 1647875425.296956000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-sfx-python%23data%2Finputs%2Fsfx_python%3Asfxpythonalertsdev%60%60splunk_cred_sep%60%602%3A]
+owner = admin
+version = 8.2.5
+modtime = 1647875425.312637000
+
+[inputs/sfx_python%3A%2F%2Fsfxpythonalertsdev]
+owner = admin
+version = 8.2.5
+modtime = 1647875425.631046000
+
+[props/sfx-python]
+owner = admin
+version = 8.2.5
+modtime = 1646950400.616797000
